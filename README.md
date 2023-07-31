@@ -30,3 +30,5 @@ You will receive a response with a randomly selected charactedId in the JSON bod
 The response just includes the same characterId that was sent. The service will also return a 400 error if an array with weights is not sent (invalid input) and a 500 error if for some reason the server fails to pick a character. 
 
 ## UML Diagram
+![UML Diagram image](~/CS361SarmatMicroserviceUMLDiagram.PNG?raw=true "Title")
+
